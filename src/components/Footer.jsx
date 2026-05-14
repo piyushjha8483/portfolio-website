@@ -18,7 +18,7 @@ const Footer = () => {
           <a href="https://github.com" target="_blank" rel="noreferrer" className="p-2 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-white/30 transition-all">
             <Github size={18} />
           </a>
-          <a href="https://www.linkedin.com/in/piyush-kumar-jha-66554633" target="_blank" rel="noreferrer" className="p-2 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-white/30 transition-all">
+          <a href="https://www.linkedin.com/in/piyushkumarjhaorpkj" target="_blank" rel="noreferrer" className="p-2 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-white/30 transition-all">
             <Linkedin size={18} />
           </a>
           <a href="mailto:piyushjha614@gmail.com" className="p-2 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-white/30 transition-all">

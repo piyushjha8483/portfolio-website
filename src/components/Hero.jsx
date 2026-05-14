@@ -200,7 +200,7 @@ const Hero = () => {
           >
             {[
               { icon: Github, href: 'https://github.com', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://www.linkedin.com/in/piyush-kumar-jha-66554633', label: 'LinkedIn' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/piyushkumarjhaorpkj', label: 'LinkedIn' },
               { icon: Mail, href: 'mailto:piyushjha614@gmail.com', label: 'Email' },
             ].map(({ icon: Icon, href, label }) => (
               <a

@@ -28,7 +28,7 @@ const contactInfo = [
     icon: Linkedin,
     label: 'LinkedIn',
     value: 'piyush-kumar-jha',
-    href: 'https://www.linkedin.com/in/piyush-kumar-jha-66554633',
+    href: 'https://www.linkedin.com/in/piyushkumarjhaorpkj',
     color: 'text-indigo-400 bg-indigo-500/10 border-indigo-500/20',
   },
 ];
